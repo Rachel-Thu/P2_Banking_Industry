@@ -47,13 +47,11 @@ This project follows a structured, Excel-based workflow using Power Query and Po
 This section provides a detailed preview of a structured data table, pivot table, and Pie of Pie chart, demonstrating the progression from raw data analysis to sophisticated, interactive visualizations.
 
 ### Working Structured Table Preview
-
-
+![Working_StructuredTable](https://github.com/user-attachments/assets/b208e4dc-9eb5-4e85-95f5-2624a2c9f263)
 
 ## Visual Report Preview
 
-
-
+![Report ](https://github.com/user-attachments/assets/9dff6741-d23b-44a2-95aa-ba97d89278fc)
 
 ---
 
