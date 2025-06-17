@@ -1,12 +1,23 @@
 # P2_Banking_Industry – Customer Segmentation Project
 
+## Table of Contents
+
+- [Executive Summary](#executive-summary)
+- [Project Objective](#project-objective)
+- [Methodology Overview](#methodology-overview)
+- [Tools and Technologies](#tools-and-technologies)
+- [Project Overview](#project-overview)
+  - [Working Structured Table Preview](#working-structured-table-preview)
+  - [Visual Report Preview](#visual-report-preview)
+- [Reporting and Communication](#reporting-and-communication)
+  - [Key Findings](#key-findings)
+  - [Recommendations](#recommendations)
+- [Repository Contents](#repository-contents)
+- [How to Use](#how-to-use)
+
 ## Executive Summary
 
-This project delivers a structured customer segmentation analysis using Microsoft Excel on a fictional banking dataset. The primary goal is to enhance the bank’s understanding of its diverse customer base to support targeted retention strategies and enable more effective, data-driven business decisions.
-
-The analysis addresses key challenges faced by the bank, including customer churn, marketing effectiveness, product alignment, personalized service, resource allocation, and profitability optimization.
-
-These insights provide a strategic foundation for improving customer satisfaction, loyalty, and overall business performance.
+This project presents a structured customer segmentation analysis using Microsoft Excel on a fictional banking dataset. It aims to improve the bank’s understanding of its customer base to support retention, optimize marketing, and enable data-driven decision-making. The analysis addresses key challenges such as customer churn, service personalization, and resource allocation—offering insights to enhance satisfaction, loyalty, and profitability.
 
 ---
 
@@ -29,7 +40,7 @@ This project follows a structured, Excel-based workflow using Power Query and Po
 
 - **Understanding Business Needs:** Identify the bank’s strategic challenges, including customer churn, inefficient marketing spend, and service misalignment across customer segments.
 - **Customer Segmentation Framework:** Develop segmentation logic based on demographic (age group) and financial (account balance group) thresholds to categorize customers meaningfully.
-- **Data Access and Consolidation:** ImAppend `Customer_Info` and `Account` sheets from multiple files, verify uniqueness, and use unique identifiers to prepare for accurate data merging.
+- **Data Access and Consolidation:** Append Customer_Info and Account sheets from multiple files, verify uniqueness, and use unique identifiers to ensure accurate data merging.
 - **Data Quality Review:** Assess data integrity by identifying missing values, duplicates, inconsistencies, and outliers that could affect analysis quality.
 - **Data Cleaning and Transformation:** Enhance data quality by addressing identified issues, merging customer and account datasets, applying necessary formatting, and transforming variables for segmentation.
 - **Visualization and Analysis:** Pivot tables and Pie of Pie chart were used to summarize key performance metrics across defined customer segments.
@@ -48,24 +59,25 @@ This project follows a structured, Excel-based workflow using Power Query and Po
 
 ## Project Overview
 
-This section provides a detailed preview of a structured data table, pivot table, and Pie of Pie chart, demonstrating the progression from raw data analysis to sophisticated, interactive visualizations.
+This section provides a detailed preview of a structured data table, pivot table, and Pie of Pie chart, demonstrating the progression from raw data to sophisticated, interactive business insights.
 
 ### Working Structured Table Preview
+
 ![Working_StructuredTable](https://github.com/user-attachments/assets/b208e4dc-9eb5-4e85-95f5-2624a2c9f263)
 
-## Visual Report Preview
+### Visual Report Preview
 
-![Report ](https://github.com/user-attachments/assets/9dff6741-d23b-44a2-95aa-ba97d89278fc)
+![Report](https://github.com/user-attachments/assets/9dff6741-d23b-44a2-95aa-ba97d89278fc)
 
 ---
 
-## ## Reporting & Communication
+## Reporting and Communication
 
 ### Key Findings
 
 The analysis indicates that the bank's total balance is predominantly held by three customer segments: **Middle–High (39%)**, **Senior–High (34%)**, and **Young–High (25%)**. In contrast, the remaining segment labeled **"Other"** represents only **2%** of the overall balance.
 
-These top segments comprise approximately **87% of the customer base**, yet they account for nearly **98% of the total balances**, highlighting a significant concentration of wealth among high-value customers.
+These top segments represent approximately 87% of the customer base, yet account for nearly 98% of total balances, indicating a significant concentration of wealth among high-value customers.
 
 ### Recommendations
 
@@ -79,7 +91,7 @@ These top segments comprise approximately **87% of the customer base**, yet they
 ## Repository Contents
 
 - Cleaned and structured datasets, prepared for analysis and modeling
-- Comprehensive Excel workbook (.xlsx) featuring step-by-step analysis across (KP01 to KP06), including all formulas, calculations, and applied methodologies
+- Comprehensive Excel workbook (.xlsx) containing step-by-step analysis from KP01 to KP06, including applied formulas, calculations, and methods
 - Interactive pivot tables and visualization charts focused on Customer Segmentation insights
 - Key insights derived from the analysis, along with actionable recommendations for strategic decision-making
 
@@ -88,7 +100,7 @@ These top segments comprise approximately **87% of the customer base**, yet they
 ## How to Use
 
 1. Download or clone the repository to your local machine
-2. Open the P2_ProjectFile(May).xlsx file using Microsoft Excel 
+2. Open the P2_ProjectFile(May).xlsx workbook in Microsoft Excel 
 3. Review the datasets in the cleaned data sheets for understanding the input data
 4. Follow the step-by-step analysis tabs (KP01 to KP06) to see the data processing and segmentation workflow
 5. Explore the pivot tables and visualization charts to gain insights on customer segments
