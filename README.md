@@ -1,21 +1,25 @@
 # P2_Banking_Industry – Customer Segmentation Project
 
-This project presents a structured customer segmentation analysis using Microsoft Excel, developed for a fictional banking dataset. The goal is to enhance the bank’s understanding of its customer base, support targeted retention strategies, and enable more effective, data-driven business decisions.
+## Executive Summary
+
+This project delivers a structured customer segmentation analysis using Microsoft Excel on a fictional banking dataset. The primary goal is to enhance the bank’s understanding of its diverse customer base to support targeted retention strategies and enable more effective, data-driven business decisions.
+
+The analysis addresses key challenges faced by the bank, including customer churn, marketing effectiveness, product alignment, personalized service, resource allocation, and profitability optimization.
+
+These insights provide a strategic foundation for improving customer satisfaction, loyalty, and overall business performance.
 
 ---
 
-## Executive Summary
+## Project Objective
 
-The banking industry faces ongoing challenges including increasing customer churn, suboptimal marketing effectiveness, and limited service personalization. This project applies customer segmentation techniques to address these issues by analyzing key demographic and financial data.
+The project aims to segment the bank’s customers based on demographic and financial data to:
 
-The analysis enables the bank to:
-
-- Identify and retain high-value customer segments
-- Optimize marketing investments through targeted campaigns
-- Align products and services more closely with customer needs
-- Allocate resources efficiently across regions and customer groups
-
-These insights provide a strategic foundation to enhance customer satisfaction, boost retention rates, and improve overall profitability.
+- Identify and retain high-value customer segments to reduce attrition  
+- Tailor marketing campaigns to increase relevance and cross-selling opportunities  
+- Inform product development and improvement aligned with customer needs  
+- Enhance customer service personalization and efficiency  
+- Allocate resources strategically across branches and regions  
+- Maximize profitability by focusing on the most valuable segments  
 
 ---
 
