@@ -53,7 +53,7 @@ This project follows a structured, Excel-based workflow using Power Query to seg
 **Microsoft Excel**  
 - Power Query: For data import, appending multiple datasets, merging tables, and performing data cleaning and transformation tasks 
 - Pivot Tables & Chart: For data analysis and visualization
-- 
+
 ---
 
 ## Project Overview
