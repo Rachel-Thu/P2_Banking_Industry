@@ -36,7 +36,7 @@ The project aims to segment the bank’s customers based on demographic and fina
 
 ## Methodology Overview
 
-This project follows a structured, Excel-based workflow using Power Query and Power Pivot to segment customers and generate actionable insights. The methodology includes the following key steps:
+This project follows a structured, Excel-based workflow using Power Query to segment customers and generate actionable insights. The methodology includes the following key steps:
 
 - **Understanding Business Needs:** Identify the bank’s strategic challenges, including customer churn, inefficient marketing spend, and service misalignment across customer segments.
 - **Customer Segmentation Framework:** Develop segmentation logic based on demographic (age group) and financial (account balance group) thresholds to categorize customers meaningfully.
@@ -52,9 +52,8 @@ This project follows a structured, Excel-based workflow using Power Query and Po
 
 **Microsoft Excel**  
 - Power Query: For data import, appending multiple datasets, merging tables, and performing data cleaning and transformation tasks 
-- Power Pivot: For data modeling and advanced calculations  
 - Pivot Tables & Chart: For data analysis and visualization
-
+- 
 ---
 
 ## Project Overview
