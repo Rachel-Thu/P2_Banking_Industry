@@ -13,7 +13,6 @@
   - [Key Findings](#key-findings)
   - [Recommendations](#recommendations)
 - [Repository Contents](#repository-contents)
-- [How to Use](#how-to-use)
 
 ## Executive Summary
 
@@ -87,20 +86,11 @@ These top segments represent approximately 87% of the customer base, yet account
   - **Middle-Aged Customers**: Focus on long-term investment vehicles, mortgage products, and retirement planning solutions.  
   - **Senior Customers**: Emphasize wealth preservation strategies, including fixed deposits and low-risk income-generating investments.
 
+---
+
 ## Repository Contents
 
 - Cleaned and structured datasets, prepared for analysis and modeling
 - Comprehensive Excel workbook (.xlsx) containing step-by-step analysis from KP01 to KP06, including applied formulas, calculations, and methods
 - Interactive pivot tables and visualization charts focused on Customer Segmentation insights
 - Key insights derived from the analysis, along with actionable recommendations for strategic decision-making
-
----
-
-## How to Use
-
-1. Download or clone the repository to your local machine
-2. Open the P2_ProjectFile(May).xlsx workbook in Microsoft Excel 
-3. Review the datasets in the cleaned data sheets for understanding the input data
-4. Follow the step-by-step analysis tabs (KP01 to KP06) to see the data processing and segmentation workflow
-5. Explore the pivot tables and visualization charts to gain insights on customer segments
-6. Refer to the Key Insights section for actionable recommendations based on the analysis
